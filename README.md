@@ -41,7 +41,7 @@ $ git pull
 
 ## Practicals
 
-- Unix commans: https://gist.github.com/masaomi/f844f8c7089adee9ee3fd2b1e2130116
+- Unix commands: https://gist.github.com/masaomi/f844f8c7089adee9ee3fd2b1e2130116
 
 ## References
 
