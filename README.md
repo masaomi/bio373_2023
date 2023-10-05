@@ -26,7 +26,7 @@ $ git pull
 15.00- | **Practice**
  &nbsp;| &nbsp;
 **5 Oct**   | &nbsp; 
-9.00-12.00  | **RNAseq analysis part1 (Lecture)**
+9.00-12.00  | **RNAseq analysis part1 (Lecture)** [Bio373_2023_RNAseq_analysis1.ipynb](Bio373_2023_RNAseq_analysis1.ipynb)
 13.00-15.00 | **RNAseq alignment (Practice)**
 15.00-17.00 | **RNAseq counting (Practice)**
  &nbsp;| &nbsp;
