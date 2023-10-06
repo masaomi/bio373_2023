@@ -33,7 +33,7 @@ $ git pull
 **6 Oct**   | &nbsp; 
 9.00-10.30  | **RNAseq analysis part2 (Lecture)** [Bio373_2023_RNAseq_analysis2.ipynb](Bio373_2023_RNAseq_analysis2.ipynb)
 10.30-12.00 | **RNAseq DEG analysis (Practice)** [Bio373_2023_DEG_Analysis.md](https://gist.github.com/masaomi/d45229c25e339540f66150f28fa770d6)
-13.00-17:00 | **Final practice**
+13.00-17:00 | **Final practice** [Bio373_2023_Final_Practice.md](https://gist.github.com/masaomi/b2b3ca19ba328405e64359864196920f)
 
 ## JupyterLab/Jupyter notebook
 
@@ -45,6 +45,7 @@ $ git pull
 - Read alignment: https://gist.github.com/masaomi/f0b351ea444bcc91ab478bd4668aa2b3
 - Read counting: https://gist.github.com/masaomi/479e2d3a617350b9f5fbde7ea38b3af5
 - Differential gene expression analysis: https://gist.github.com/masaomi/d45229c25e339540f66150f28fa770d6
+- Final practice: https://gist.github.com/masaomi/b2b3ca19ba328405e64359864196920f
 - Mock examination: https://gist.github.com/masaomi/7d6b43eace29cf23523762c11662f1a9
 
 ## References
