@@ -31,7 +31,7 @@ $ git pull
 15.00-17.00 | **RNAseq counting (Practice)** [Bio373_2023_Counting.md](https://gist.github.com/masaomi/479e2d3a617350b9f5fbde7ea38b3af5)
  &nbsp;| &nbsp;
 **6 Oct**   | &nbsp; 
-9.00-10.30  | **RNAseq analysis part2 (Lecture)**
+9.00-10.30  | **RNAseq analysis part2 (Lecture)** [Bio373_2023_RNAseq_analysis2.ipynb](Bio373_2023_RNAseq_analysis2.ipynb)
 10.30-12.00 | **RNAseq DEG analysis (Practice)**
 13.00-17:00 | **Final practice**
 
