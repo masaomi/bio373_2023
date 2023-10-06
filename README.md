@@ -42,6 +42,10 @@ $ git pull
 ## Practicals
 
 - Unix commands: https://gist.github.com/masaomi/f844f8c7089adee9ee3fd2b1e2130116
+- Read alignment: https://gist.github.com/masaomi/f0b351ea444bcc91ab478bd4668aa2b3
+- Read counting: https://gist.github.com/masaomi/479e2d3a617350b9f5fbde7ea38b3af5
+- Differential gene expression analysis: https://gist.github.com/masaomi/d45229c25e339540f66150f28fa770d6
+- Mock examination: https://gist.github.com/masaomi/7d6b43eace29cf23523762c11662f1a9
 
 ## References
 
