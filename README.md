@@ -32,7 +32,7 @@ $ git pull
  &nbsp;| &nbsp;
 **6 Oct**   | &nbsp; 
 9.00-10.30  | **RNAseq analysis part2 (Lecture)** [Bio373_2023_RNAseq_analysis2.ipynb](Bio373_2023_RNAseq_analysis2.ipynb)
-10.30-12.00 | **RNAseq DEG analysis (Practice)**
+10.30-12.00 | **RNAseq DEG analysis (Practice)** [Bio373_2023_DEG_Analysis.md](https://gist.github.com/masaomi/d45229c25e339540f66150f28fa770d6)
 13.00-17:00 | **Final practice**
 
 ## JupyterLab/Jupyter notebook
