@@ -45,8 +45,9 @@ $ git pull
 - Read alignment: https://gist.github.com/masaomi/f0b351ea444bcc91ab478bd4668aa2b3
 - Read counting: https://gist.github.com/masaomi/479e2d3a617350b9f5fbde7ea38b3af5
 - Differential gene expression analysis: https://gist.github.com/masaomi/d45229c25e339540f66150f28fa770d6
-- Final practice: https://gist.github.com/masaomi/b2b3ca19ba328405e64359864196920f
+- Final practice report: https://gist.github.com/masaomi/b422c695a89bc76e69ef59a1f450e899
 - Mock examination: https://gist.github.com/masaomi/7d6b43eace29cf23523762c11662f1a9
+- Mock examination (answer): https://gist.github.com/masaomi/ce7260ce33ce005a930e259728cdd705
 
 ## References
 
